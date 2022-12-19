@@ -1,5 +1,6 @@
 <div align="center">
-### Hi there 👋
+ 
+ Hello there 👋
 
 I am a college student <br>
 My graduation is in February of 23 <br>
