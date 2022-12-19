@@ -1,5 +1,8 @@
 <div align="center">
- 
+ 안녕하세요!
+ 현재 대학 3년제 컴퓨터 소프트웨어과 졸업 예정중인 임정은이라고 합니다.
+ 부족한건 많지만 노력하면서 배우고 있습니다.
+ #
  Hello there 👋
 
 I am a college student <br>
