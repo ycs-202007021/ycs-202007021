@@ -21,9 +21,14 @@ I want to learn a lot<br>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> 
 <br>
+ <br>
+ <br>
  
   
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycs-202007021&layout=compact">
+  <br>
+ <br>
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=ycs-202007021&show_icons=true">
  </div>
